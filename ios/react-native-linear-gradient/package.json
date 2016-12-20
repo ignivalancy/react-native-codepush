@@ -1,0 +1,110 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-linear-gradient",
+        "scope": null,
+        "escapedName": "react-native-linear-gradient",
+        "name": "react-native-linear-gradient",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/Igniva/Desktop/work/reactnative/reactSampleApp"
+    ]
+  ],
+  "_from": "react-native-linear-gradient@latest",
+  "_id": "react-native-linear-gradient@1.5.15",
+  "_inCache": true,
+  "_location": "/react-native-linear-gradient",
+  "_nodeVersion": "7.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-linear-gradient-1.5.15.tgz_1478699075609_0.09060235926881433"
+  },
+  "_npmUser": {
+    "name": "dgl",
+    "email": "dmitry.gladkov@gmail.com"
+  },
+  "_npmVersion": "4.0.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-linear-gradient",
+    "scope": null,
+    "escapedName": "react-native-linear-gradient",
+    "name": "react-native-linear-gradient",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-linear-gradient/-/react-native-linear-gradient-1.5.15.tgz",
+  "_shasum": "4413111934dc1d8f5e0572ca96e60b1a2cf41f4d",
+  "_shrinkwrap": null,
+  "_spec": "react-native-linear-gradient",
+  "_where": "/Users/Igniva/Desktop/work/reactnative/reactSampleApp",
+  "author": {
+    "name": "Brent Vatne",
+    "email": "brentvatne@gmail.com",
+    "url": "https://github.com/brentvatne"
+  },
+  "bugs": {
+    "url": "https://github.com/brentvatne/react-native-linear-gradient/issues"
+  },
+  "contributors": [
+    {
+      "name": "Nick Hudkins",
+      "email": "nick@nickhudkins.com",
+      "url": "https://github.com/nickhudkins"
+    },
+    {
+      "name": "Dmitry Gladkov",
+      "email": "dmitry.gladkov@gmail.com",
+      "url": "https://github.com/dgladkov"
+    }
+  ],
+  "dependencies": {},
+  "description": "A <LinearGradient> element for react-native",
+  "devDependencies": {
+    "jest-cli": "0.2.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "4413111934dc1d8f5e0572ca96e60b1a2cf41f4d",
+    "tarball": "https://registry.npmjs.org/react-native-linear-gradient/-/react-native-linear-gradient-1.5.15.tgz"
+  },
+  "gitHead": "4c5c2d836c053f29fd07fff938a4375f9dd73f05",
+  "homepage": "https://github.com/brentvatne/react-native-linear-gradient#readme",
+  "license": "MIT",
+  "main": "index",
+  "maintainers": [
+    {
+      "name": "brentvatne",
+      "email": "brentvatne@gmail.com"
+    },
+    {
+      "name": "dgl",
+      "email": "dmitry.gladkov@gmail.com"
+    },
+    {
+      "name": "frantic",
+      "email": "alex.frantic@gmail.com"
+    },
+    {
+      "name": "nickhudkins",
+      "email": "nick@nickhudkins.com"
+    }
+  ],
+  "name": "react-native-linear-gradient",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brentvatne/react-native-linear-gradient.git"
+  },
+  "scripts": {},
+  "version": "1.5.15"
+}

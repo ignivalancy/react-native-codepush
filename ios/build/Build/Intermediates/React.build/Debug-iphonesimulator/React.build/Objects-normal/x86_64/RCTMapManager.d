@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTMapManager.m \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTMapManager.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTConvert.h \
+  ../ReactCommon/CSSLayout/CSSLayout/CSSLayout.h \
+  ../ReactCommon/CSSLayout/CSSLayout/CSSEnums.h \
+  ../ReactCommon/CSSLayout/CSSLayout/CSSMacros.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTConvert+CoreLocation.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTConvert+MapKit.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTMap.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTMapAnnotation.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Views/RCTMapOverlay.h

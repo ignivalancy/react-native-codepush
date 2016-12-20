@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Executors/RCTJSCWrapper.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/Igniva/Desktop/work/reactnative/reactSampleApp/node_modules/react-native/React/Modules/JSCSamplingProfiler.h
