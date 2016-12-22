@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-0ae8f1c0143451df1b6a040afb23b83ea797ed60.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-66a68cf0d1b4351534446d548f6d4622ceb65e6c.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-25f6cd402bd72d58c2666e5b2bba776b24b4127b.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-51457a786d331c0a2856a5cdf1ff0045cb93062f.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-ad5a4717946da56aa81ca096ac451f9a1c3bcfbf.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-3ebb45b17cbff3e06fb2253ef74a8796ba62913f.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-48d50238f65ac8f1f8e45ee890e2aa7f6db05c35.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-eb158238abe814b286d9294864600fb14f3e6031.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/reactSampleApp/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="245839ba2c8d94933acfa2a7a52a01bf9ee1fed9">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-5a71869d5dc5abde952fc5cf18221d2ab40f7660.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-16e73493fd2997b6eab2228a908b5aa4ca52bd13.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-4c5f47326563f76df9424a24a76451e93b1a7600.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-28d769db703fa54d66f53677e9782fc30e8838ee.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-998783df59084d85095a513282fef6bbe3f3b0e6.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/reactSampleApp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af9300d104b902cf542b8dfbcab6f121938cb7fe">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-7aefc5be942dce1b9b750bc2ee2815946331ce0a.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-52381dbafe2bec35368d5b695d13cf9b3f07d09f.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-975e7bf3b76637aeefa0ea8f5f484fd2d06a85e3.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-371d79f97be859fb00e28df1f2e83789c19fff37.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-1beb19def241c7a9001209ce6edeba030fedc7aa.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-14177e6fa29b69cde936b725fef52e8f0ac83dfa.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-20910dbdd9e365440ee6c4f7b164ae0e0a9525c2.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-0d6486a0d28bc025ec128b450a1c06e945610f78.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-a6464a7ef87d11eb759f862b8922b52ea5a2c2c4.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-864f9d7de63f3a31e46e0dde4e6f260dabcae244.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-94cc93b42fe1aeab12e0552d04de15788487a594.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/reactSampleApp/react-native-code-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b1972f868a2c2daf1b51c5e65f68388f811ad25b">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-be0302e6b3b0539dd149967653dba301b6ad5930.jar" />
+    </item>
+    <item
+        jar="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/macmini05/Desktop/reactSampleApp/android/app/build/intermediates/pre-dexed/debug/classes-f4f1c2ee292fd7c6912c4ee15edfaa7451ed78ba.jar" />
+    </item>
+
+</items>
